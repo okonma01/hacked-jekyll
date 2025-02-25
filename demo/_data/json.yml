@@ -1,36 +1,38 @@
 - key: Name
-  value: Daniel Okonma
-- key: Occupation
+  value: Place Holder
+- key: Description
   value:
-    - Software Developer
-    - Data Specialist
-    - Fraud Intelligence Analyst
-    - Deep Learning Enthusiast
-    - Open-source Advocate
+    - Hello!
+    - This tiny website
+    - Looks like JSON
   typed: true
-- key: Projects
+- key: CV
+  value: cv.pdf
+  url: /cv.pdf
+- key: Address
   value:
-    - value: Mars Visit Application
-      url: "https://github.com/okonma01/mars-visit-form"
-    - value: Drum Machine
-      url: "https://github.com/okonma01/drum-machine"
-    - value: VIN Decoder
-      url: "https://github.com/okonma01/vin-decoder"
-    - value: Make or Miss Simulator
-      url: "https://github.com/okonma01/make-or-miss"
-    - value: NBA PCA
-      url: "https://github.com/okonma01/vin-decoder"
+    - University of Jekyll
+    - Department of Themes
+    - 123 Main St, Anytown, USA
 - key: Contact
   value:
+    - key: Office
+      value: Foobar Hall 1.23
+    - key: Phone
+      value: +1 234 567 890
     - key: Email
-      value: danielokonma@yahoo.com
-      url: "mailto:danielokonma@yahoo.com"
-    - key: GitHub
-      value: okonma01
-      url: https://www.github.com/okonma01
-    - key: LinkedIn
-      value: danielokonma
-      url: https://www.linkedin.com/in/danielokonma
-- key: Resume
-  value: resume.pdf
-  url: /resume.pdf
+      value: username@domain.com
+      url: "mailto:username@domain.com"
+- key: Source
+  value: piazzai/hacked-jekyll
+  url: https://github.com/piazzai/hacked-jekyll
+- key: Profiles
+  value:
+    - value: Instagram
+      url: https://www.instagram.com
+    - value: LinkedIn
+      url: https://www.linkedin.com
+    - value: StackOverflow
+      url: https://stackoverflow.com
+    - value: GitHub
+      url: https://github.com
