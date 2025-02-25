@@ -10,15 +10,15 @@
   typed: true
 - key: Projects
   value:
-    - value: Mars Visit Application
-      url: "https://github.com/okonma01/mars-visit-form"
     - value: Drum Machine
       url: "https://github.com/okonma01/drum-machine"
-    - value: VIN Decoder
-      url: "https://github.com/okonma01/vin-decoder"
     - value: Make or Miss Simulator
       url: "https://github.com/okonma01/make-or-miss"
+    - value: Mars Visit Application
+      url: "https://github.com/okonma01/mars-visit-form"
     - value: NBA PCA
+      url: "https://github.com/okonma01/vin-decoder"
+    - value: VIN Decoder
       url: "https://github.com/okonma01/vin-decoder"
 - key: Contact
   value:
