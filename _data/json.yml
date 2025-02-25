@@ -1,1 +1,36 @@
-# empty
+- key: Name
+  value: Daniel Okonma
+- key: Occupation
+  value:
+    - Software Developer
+    - Data Specialist
+    - Fraud Intelligence Analyst
+    - Deep Learning Enthusiast
+    - Open-source Advocate
+  typed: true
+- key: Projects
+  value:
+    - value: Mars Visit Application
+      url: "https://github.com/okonma01/mars-visit-form"
+    - value: Drum Machine
+      url: "https://github.com/okonma01/drum-machine"
+    - value: VIN Decoder
+      url: "https://github.com/okonma01/vin-decoder"
+    - value: Make or Miss Simulator
+      url: "https://github.com/okonma01/make-or-miss"
+    - value: NBA PCA
+      url: "https://github.com/okonma01/vin-decoder"
+- key: Contact
+  value:
+    - key: Email
+      value: danielokonma@yahoo.com
+      url: "mailto:danielokonma@yahoo.com"
+    - key: GitHub
+      value: okonma01
+      url: https://www.github.com/okonma01
+    - key: LinkedIn
+      value: danielokonma
+      url: https://www.linkedin.com/in/danielokonma
+- key: Resume
+  value: resume.pdf
+  url: /resume.pdf
