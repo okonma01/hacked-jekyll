@@ -1,7 +1,7 @@
-title: Hacked Jekyll
-description: Jekyll microtheme that looks like JSON
-baseurl: /hacked-jekyll
-url: https://piazzai.github.io
+title: Okonma's Website
+description: My little corner on the internet
+baseurl: /personal-website
+url: https://okonma01.github.io
 
 theme: hacked-jekyll
 
