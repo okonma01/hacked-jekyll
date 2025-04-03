@@ -4,22 +4,20 @@
   value:
     - Software Developer
     - Data Specialist
-    - Fraud Intelligence Analyst
-    - Deep Learning Enthusiast
-    - Open-source Advocate
+    - Machine Learning Fan
   typed: true
 - key: Projects
   value:
     - value: Drum Machine
-      url: "https://github.com/okonma01/drum-machine"
-    - value: Make or Miss Simulator
+      url: "https://okonma01.github.io/drum-machine/"
+    - value: Make or Miss
       url: "https://github.com/okonma01/make-or-miss"
-    - value: Mars Visit Application
-      url: "https://github.com/okonma01/mars-visit-form"
+    - value: Mars Visit Form
+      url: "https://okonma01.github.io/mars-visit-form/"
     - value: NBA PCA
-      url: "https://github.com/okonma01/vin-decoder"
+      url: "https://2i2c.mybinder.org/v2/gh/okonma01/nba-pca/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebook.ipynb"
     - value: VIN Decoder
-      url: "https://github.com/okonma01/vin-decoder"
+      url: "https://okonma01.github.io/vin-decoder/"
 - key: Contact
   value:
     - key: Email
@@ -33,4 +31,4 @@
       url: https://www.linkedin.com/in/danielokonma
 - key: Resume
   value: resume.pdf
-  url: /resume.pdf
+  url: assets/resume.pdf

@@ -1,7 +1,6 @@
 title: Okonma's Website
 description: My little corner on the internet
-baseurl: /hacked-jekyll
-url: https://piazzai.github.io
+url: https://okonma01.github.io
 
 theme: hacked-jekyll
 
@@ -19,4 +18,4 @@ sass:
   
 newtab: true
 quotes: values
-lowercase: keys
+lowercase: true

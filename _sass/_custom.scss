@@ -1,3 +1,35 @@
 a {
-    text-decoration-line: none;
+  text-decoration: none;
+}
+
+main {
+  font-size: 1.4rem;
+  line-height: 1.3;
+}
+
+@media (max-width: 468px) {
+  main {
+    font-size: 0.95rem;
+    line-height: 1.1;
+  }
+}
+
+@media (max-width: 380px) {
+  .ms {
+    margin-left: 1.4rem;
+  }
+
+  main {
+    font-size: 0.95rem;
+  }
+}
+
+@media (max-width: 330px) {
+  .ms {
+    margin-left: 1rem;
+  }
+
+  main {
+    font-size: 0.8rem;
+  }
 }
