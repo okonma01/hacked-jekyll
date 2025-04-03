@@ -1,6 +1,7 @@
 title: Okonma's Website
 description: My little corner on the internet
 url: https://okonma01.github.io
+baseurl: ""
 
 theme: hacked-jekyll
 
