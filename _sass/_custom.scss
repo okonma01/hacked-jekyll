@@ -4,32 +4,30 @@ a {
 
 main {
   font-size: 1.4rem;
-  line-height: 1.3;
+  line-height: 1.4;
 }
 
 @media (max-width: 468px) {
   main {
     font-size: 0.95rem;
-    line-height: 1.1;
+    margin-left: 1.7rem;
   }
 }
 
-@media (max-width: 380px) {
+@media (max-width: 390px) {
   .ms {
-    margin-left: 1.4rem;
+    margin-left: 1.3rem;
   }
-
+  
   main {
-    font-size: 0.95rem;
+    font-size: 0.9rem;
+    margin-left: 1.2rem;
   }
 }
 
-@media (max-width: 330px) {
-  .ms {
-    margin-left: 1rem;
-  }
+@media (max-width: 360px) {
 
   main {
-    font-size: 0.8rem;
+    font-size: 0.84rem;
   }
 }
