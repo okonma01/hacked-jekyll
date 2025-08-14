@@ -18,6 +18,8 @@
       url: "https://2i2c.mybinder.org/v2/gh/okonma01/nba-pca/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebook.ipynb"
     - value: Network Graph
       url: "https://network-graph.streamlit.app/"
+    - value: Pip Feastdays
+      url: "https://pypi.org/project/feastdays/"
     - value: VIN Decoder
       url: "https://okonma01.github.io/vin-decoder/"
 - key: Contact
