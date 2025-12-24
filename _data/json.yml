@@ -12,16 +12,12 @@
       url: "https://okonma01.github.io/drum-machine/"
     - value: Make or Miss
       url: "https://mom-frontend.fly.dev/"
-    - value: Mars Visit Form
-      url: "https://okonma01.github.io/mars-visit-form/"
     - value: NBA PCA
       url: "https://2i2c.mybinder.org/v2/gh/okonma01/nba-pca/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebook.ipynb"
     - value: Network Graph
       url: "https://network-graph.streamlit.app/"
     - value: Pip Feastdays
       url: "https://pypi.org/project/feastdays/"
-    - value: VIN Decoder
-      url: "https://okonma01.github.io/vin-decoder/"
 - key: Contact
   value:
     - key: Email
@@ -35,4 +31,4 @@
       url: https://www.linkedin.com/in/danielokonma
 - key: Resume
   value: resume.pdf
-  url: assets/resume.pdf
+  url: assets/resume25.pdf
