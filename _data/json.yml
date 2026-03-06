@@ -8,12 +8,14 @@
   typed: true
 - key: Projects
   value:
+    - value: Agents 101
+      url: "https://colab.research.google.com/github/okonma01/agents-101/blob/main/notebook.ipynb"
     - value: Drum Machine
       url: "https://okonma01.github.io/drum-machine/"
     - value: Make or Miss
       url: "https://mom-frontend.fly.dev/"
     - value: NBA PCA
-      url: "https://2i2c.mybinder.org/v2/gh/okonma01/nba-pca/HEAD?urlpath=%2Fdoc%2Ftree%2Fnotebook.ipynb"
+      url: "https://colab.research.google.com/github/okonma01/nba-pca/blob/main/notebook.ipynb"
     - value: Network Graph
       url: "https://network-graph.streamlit.app/"
     - value: Pip Feastdays
