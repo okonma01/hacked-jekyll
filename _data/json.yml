@@ -10,8 +10,6 @@
   value:
     - value: Agents 101
       url: "https://colab.research.google.com/github/okonma01/agents-101/blob/main/notebook.ipynb"
-    - value: Drum Machine
-      url: "https://okonma01.github.io/drum-machine/"
     - value: Make or Miss
       url: "https://mom-frontend.fly.dev/"
     - value: NBA PCA
@@ -20,6 +18,8 @@
       url: "https://network-graph.streamlit.app/"
     - value: Pip Feastdays
       url: "https://pypi.org/project/feastdays/"
+    - value: Tensor Visualizer
+      url: "https://okonma01.github.io/tensor-visualizer/"
 - key: Contact
   value:
     - key: Email
