@@ -16,6 +16,8 @@
       url: "https://colab.research.google.com/github/okonma01/nba-pca/blob/main/notebook.ipynb"
     - value: Network Graph
       url: "https://network-graph.streamlit.app/"
+    - value: Neural Playground
+      url: "https://okonma01.github.io/neural-network-playground/"
     - value: Pip Feastdays
       url: "https://pypi.org/project/feastdays/"
     - value: Tensor Visualizer
